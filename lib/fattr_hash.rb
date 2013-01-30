@@ -1,5 +1,3 @@
-require 'fattr'
-
 # convenience methods for Fattr's library
 module FattrHash
   def self.human_attribute_name(attr, options = {})
